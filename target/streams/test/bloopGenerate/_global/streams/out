@@ -1,0 +1,4 @@
+[debug] [hands-on-scala-test] Classpath dependencies List()
+[debug] [hands-on-scala-test] Dependencies from configurations List(hands-on-scala)
+[debug] Bloop wrote the configuration of project 'hands-on-scala-test' to '/home/pengtan/Projects/scala/hands-on-scala/.bloop/hands-on-scala-test.json'
+[success] Generated .bloop/hands-on-scala-test.json
