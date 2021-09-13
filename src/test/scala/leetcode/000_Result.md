@@ -40,3 +40,8 @@
 | 09/12/2021 09:21 | Accepted | 596 ms  | 51.8 MB | scala    |
 |                  |          | 27.6 %  | 46.6 %  |          |
 
+### Integer to Roman
+| Time Submitted   | Status   | Runtime | Memory  | Language |
+|------------------|----------|---------|---------|----------|
+| 09/12/2021 16:53 | Accepted | 1456 ms | 90.8 MB | scala    |
+|                  |          | 6.56 %  | 6.56 %  |          |
