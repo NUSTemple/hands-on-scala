@@ -19,7 +19,7 @@ object PhoneLetterCombinations extends App {
 
         println(sa.mkString(","))
 
-        sa
+        List("ab")
     }
 
 
