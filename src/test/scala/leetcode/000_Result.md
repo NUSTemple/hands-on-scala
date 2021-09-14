@@ -45,3 +45,11 @@
 |------------------|----------|---------|---------|----------|
 | 09/12/2021 16:53 | Accepted | 1456 ms | 90.8 MB | scala    |
 |                  |          | 6.56 %  | 6.56 %  |          |
+
+### Phone Letter Combination
+
+### Longest Common Prefix
+| Time Submitted   | Status   | Runtime | Memory  | Language |
+|------------------|----------|---------|---------|----------|
+| 09/14/2021 23:00 | Accepted | 524 ms  | 51.5 MB | scala    |
+|                  |          | 39.8%   | 42.1 %  |          |

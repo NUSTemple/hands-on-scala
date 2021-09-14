@@ -18,7 +18,7 @@ object PhoneLetterCombinations extends App {
         
 
         println(sa.mkString(","))
-
+        //TODO: Add method to generate combination of multiple array
         List("ab")
     }
 
