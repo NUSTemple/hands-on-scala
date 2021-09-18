@@ -40,6 +40,13 @@
 | 09/12/2021 00:00 | Accepted | 624 ms  | 61.4 MB | scala    |
 |                  |          | 13 %    | 14.8 %  |          |
 
+### Palindrome Number V2
+| Time Submitted   | Status   | Runtime | Memory  | Language |
+|------------------|----------|---------|---------|----------|
+| 09/18/2021 18:42 | Accepted | 1062 ms | 83.2 MB | scala    |
+|                  |          | 5.18 %  | 6.22 %  |          |
+
+
 ### Roman to Integer
 | Time Submitted   | Status   | Runtime | Memory  | Language |
 |------------------|----------|---------|---------|----------|
@@ -77,3 +84,21 @@
 |------------------|----------|---------|---------|----------|
 | 09/18/2021 15:20 | Accepted | 859 ms  | 67.3 MB | scala    |
 |                  |          | 6.02 %  | 13.25 % |          |
+
+### Contains Duplicate
+| Time Submitted   | Status   | Runtime | Memory   | Language |
+|------------------|----------|---------|----------|----------|
+| 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala    |
+|                  |          | 5.08 %  | 5.08 %   |          |
+
+### Contains Duplicate V2
+| Time Submitted   | Status   | Runtime  | Memory    | Language |
+|------------------|----------|----------|-----------|----------|
+| 09/18/2021 19:37 | Accepted | 648 ms   | 59.1 MB   | scala    |
+|                  |          | 50.85 %  | 77.12 %   |          |
+
+### Maximum Subarray
+| Time Submitted   | Status   | Runtime  | Memory   | Language |
+|------------------|----------|----------|----------|----------|
+| 09/18/2021 22:56 | Accepted | 1033 ms  | 183.3 MB | scala    |
+|                  |          | 5.30 %   | 5.30 %   |          |
