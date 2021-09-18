@@ -72,5 +72,8 @@
 | 09/18/2021 13:08 | Accepted | 839 ms  | 84.3 MB | scala    |
 |                  |          | 41.86%  | 10.46 % |          |
 
-
-
+### SearchInsertIndex
+| Time Submitted   | Status   | Runtime | Memory  | Language |
+|------------------|----------|---------|---------|----------|
+| 09/18/2021 15:20 | Accepted | 859 ms  | 67.3 MB | scala    |
+|                  |          | 6.02 %  | 13.25 % |          |
