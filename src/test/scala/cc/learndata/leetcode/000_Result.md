@@ -4,6 +4,12 @@
 | 09/10/2021 22:06 | Accepted | 1154 ms | 71.5 MB | scala    |
 |                  |          | 12.9%   | 12.9%   |          |
 
+### Two Sum V2
+| Time Submitted   | Status   | Runtime  | Memory    | Language |
+|------------------|----------|----------|-----------|----------|
+| 09/17/2021 22:42 | Accepted | 870 ms   | 69.8 MB   | scala    |
+|                  |          | 28.69 %  | 20.78 %   |          |
+
 ### AddTwoNum
 | Time Submitted   | Status   | Runtime | Memory  | Language |
 |------------------|----------|---------|---------|----------|
