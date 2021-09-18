@@ -4,7 +4,7 @@ import org.scalatest.FunSuite
 
 class AddTwoNumTest extends FunSuite {
 
-    // // test 1
+    // test 1
     test("1st test") {
         val L1_3 = new ListNode(3)
         val L1_2 = new ListNode(4, L1_3)
