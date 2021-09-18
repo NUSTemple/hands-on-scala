@@ -27,4 +27,29 @@ class PalindromeNumberTest extends FunSuite {
     assert(testResult == expectResult)
   }
 
+
+    test("test 5") {
+    val testResult = PalindromeNumberV2.isPalindromeNumber(121)
+    val expectResult = true
+    assert(testResult == expectResult)
+  }
+
+  test("test 6") {
+    val testResult = PalindromeNumberV2.isPalindromeNumber(-121)
+    val expectResult = false
+    assert(testResult == expectResult)
+  }
+
+  test("test 7") {
+    val testResult = PalindromeNumberV2.isPalindromeNumber(10)
+    val expectResult = false
+    assert(testResult == expectResult)
+  }
+
+  test("test 8") {
+    val testResult = PalindromeNumberV2.isPalindromeNumber(-101)
+    val expectResult = false
+    assert(testResult == expectResult)
+  }
+
 }
