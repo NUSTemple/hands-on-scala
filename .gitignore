@@ -1,7 +1,7 @@
-.bsp
+.bsp/
 .idea
 .bloop
-.metals
-.vscode
+.metals/
+.vscode/
 target/
 project/
