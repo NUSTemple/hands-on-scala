@@ -90,3 +90,15 @@
 |------------------|----------|---------|----------|----------|
 | 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala    |
 |                  |          | 5.08 %  | 5.08 %   |          |
+
+### Contains Duplicate V2
+| Time Submitted   | Status   | Runtime  | Memory    | Language |
+|------------------|----------|----------|-----------|----------|
+| 09/18/2021 19:37 | Accepted | 648 ms   | 59.1 MB   | scala    |
+|                  |          | 50.85 %  | 77.12 %   |          |
+
+### Maximum Subarray
+| Time Submitted   | Status   | Runtime  | Memory   | Language |
+|------------------|----------|----------|----------|----------|
+| 09/18/2021 22:56 | Accepted | 1033 ms  | 183.3 MB | scala    |
+|                  |          | 5.30 %   | 5.30 %   |          |
