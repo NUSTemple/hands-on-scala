@@ -10,6 +10,13 @@
 | 09/17/2021 22:42 | Accepted | 870 ms   | 69.8 MB   | scala    |
 |                  |          | 28.69 %  | 20.78 %   |          |
 
+### Two Sum V3
+| Time Submitted   | Status   | Runtime      | Memory       | Language |
+|------------------|----------|--------------|--------------|----------|
+| 09/19/2021 09:44 | Accepted | 796 ms       | 70.3 MB      | scala    |
+|                  |          | 33.47 %      | 20.67 %      |          |
+
+
 ### AddTwoNum
 | Time Submitted   | Status   | Runtime | Memory  | Language |
 |------------------|----------|---------|---------|----------|
@@ -102,3 +109,21 @@
 |------------------|----------|----------|----------|----------|
 | 09/18/2021 22:56 | Accepted | 1033 ms  | 183.3 MB | scala    |
 |                  |          | 5.30 %   | 5.30 %   |          |
+
+### Sorted Square
+| Time Submitted   | Status   | Runtime    | Memory     | Language |
+|------------------|----------|------------|------------|----------|
+| 09/19/2021 08:11 | Accepted | 604 ms     | 53.1 MB    | scala    |
+|                  |          | 73.47 %    | 58.16 %    |          |
+
+### Rotated Array
+| Time Submitted   | Status   | Runtime     | Memory      | Language |
+|------------------|----------|-------------|-------------|----------|
+| 09/19/2021 09:29 | Accepted | 620 ms      | 63 MB       | scala    |
+|                  |          | 86.36 %     | 96.97 %     |          |
+
+### Merge Sorted Array
+| Time Submitted   | Status   | Runtime      | Memory       | Language |
+|------------------|----------|--------------|--------------|----------|
+| 09/19/2021 10:45 | Accepted | 585 ms       | 63.8 MB      | scala    |
+|                  |          | 16.67%       | 5.56 %       |          |

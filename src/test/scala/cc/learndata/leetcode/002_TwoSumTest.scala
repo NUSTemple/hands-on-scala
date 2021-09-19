@@ -19,4 +19,21 @@ class TwoSumV2Test extends FunSuite {
     assert(testResult === expectResult)
   }
 
+
+
+      // test 3
+        test("test 3") {
+    val testResult = TwoSumV3.findSumPair(Array(3, 2, 4), 6)
+    val expectResult = Array(1, 2)
+    assert(testResult === expectResult)
+  }
+
+
+      // test 3
+        test("test 4") {
+    val testResult = TwoSumV3.findSumPair(Array(3, 2, 4), 6)
+    val expectResult = Array(1, 2)
+    assert(testResult === expectResult)
+  }
+
 }
