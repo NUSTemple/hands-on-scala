@@ -22,6 +22,7 @@
 | 217 | Contains Duplicate | 1 | 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala | 5.08% | 5.08% |
 | 217 | Contains Duplicate | 2 | 09/18/2021 19:37 | Accepted | 648 ms | 59.1 MB | scala | 50.85% | 77.12% |
 | 283 | Move Zeros | 1 | 09/20/2021 21:50 | Accepted | 908 ms | 67.9 MB | scala | 12.50% | 20.83% |
+| 344 | Reverse String | 1 | 09/21/2021 08:23 | Accepted | 1092 ms | 86.2 MB | scala | 20% | 30% |
 | 350 | Intersection Of Two Arrays II | 1 | 09/21/2021 00:07 | Accepted | 914 ms | 69.4 MB | scala | 20.15% | 12.69% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
 | 977 | Sorted Squares | 1 | 09/19/2021 08:11 | Accepted | 604 ms | 53.1 MB | scala | 73.47% | 58.16% |
