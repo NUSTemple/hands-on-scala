@@ -16,6 +16,7 @@
 | 35 | Search Insert Position | 1 | 09/18/2021 15:19 | Accepted | 859 ms | 67.3 MB | scala | 6.02% | 13.25% |
 | 53 | Maximum Subarray | 1 | 09/18/2021 22:56 | Accepted | 1033 ms | 183.3 MB | scala | 5.30% | 5.30% |
 | 88 | Merge Sorted Array | 1 | 09/19/2021 10:45 | Accepted | 585 ms | 63.8 MB | scala | 16.67% | 5.56% |
+| 118 | Pascal's Triangle | 1 | 09/21/2021 10:22 | Accepted | 751 ms | 61.1 MB | scala | 27.12% | 13.56% |
 | 121 | Best Time to Buy and Sell Stock | 1 | 09/21/2021 01:30 | Accepted | 1278 ms | 90 MB | scala | 5.21% | 20.83% |
 | 167 | Two Sum In Sorted Array | 1 | 09/20/2021 22:17 | Accepted | 785 ms | 66.9 MB | scala | 36.21% | 29.31% |
 | 189 | Rotated Array | 1 | 09/19/2021 09:28 | Accepted | 620 ms | 63 MB | scala | 86.36% | 96.97% |
@@ -24,5 +25,7 @@
 | 283 | Move Zeros | 1 | 09/20/2021 21:50 | Accepted | 908 ms | 67.9 MB | scala | 12.50% | 20.83% |
 | 344 | Reverse String | 1 | 09/21/2021 08:23 | Accepted | 1092 ms | 86.2 MB | scala | 20% | 30% |
 | 350 | Intersection Of Two Arrays II | 1 | 09/21/2021 00:07 | Accepted | 914 ms | 69.4 MB | scala | 20.15% | 12.69% |
+| 557 | Reverse Words In A String III | 1 | 09/21/2021 08:50 | Accepted | 1005 ms | 81.6 MB | scala | 18.52% | 25.93% |
+| 566 | Reshape the Matrix | 1 | 09/21/2021 09:24 | Accepted | 917 ms | 79.2 MB | scala | 38.46% | 7.69% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
 | 977 | Sorted Squares | 1 | 09/19/2021 08:11 | Accepted | 604 ms | 53.1 MB | scala | 73.47% | 58.16% |
