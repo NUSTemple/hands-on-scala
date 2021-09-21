@@ -14,7 +14,9 @@
 | 14 | Longest Common Prefix | 1 | 09/14/2021 23:00 | Accepted | 524 ms | 51.5 MB | scala | 39.8% | 42.1% |
 | 15 | Three Sum | 1 | 09/15/2021 08:52 | Accepted | 4425 ms | 441.4 MB | scala | 6.85% | 5.48% |
 | 35 | Search Insert Position | 1 | 09/18/2021 15:19 | Accepted | 859 ms | 67.3 MB | scala | 6.02% | 13.25% |
+| 36 | Valid Sudoku | 1 | 09/22/2021 00:27 | Accepted | 608 ms | 52.7 MB | scala | 29.41% | 44.12% |
 | 53 | Maximum Subarray | 1 | 09/18/2021 22:56 | Accepted | 1033 ms | 183.3 MB | scala | 5.30% | 5.30% |
+| 74 | Search 2D Matrix | 1 | 09/22/2021 00:39 | Accepted | 484 ms | 51.4 MB | scala | 42.86% | 42.86% |
 | 88 | Merge Sorted Array | 1 | 09/19/2021 10:45 | Accepted | 585 ms | 63.8 MB | scala | 16.67% | 5.56% |
 | 118 | Pascal's Triangle | 1 | 09/21/2021 10:22 | Accepted | 751 ms | 61.1 MB | scala | 27.12% | 13.56% |
 | 121 | Best Time to Buy and Sell Stock | 1 | 09/21/2021 01:30 | Accepted | 1278 ms | 90 MB | scala | 5.21% | 20.83% |
