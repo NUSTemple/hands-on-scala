@@ -13,6 +13,7 @@
 | 13 | Roman to Integer | 1 | 09/12/2021 09:21 | Accepted | 596 ms | 51.8 MB | scala | 27.6% | 46.6% |
 | 14 | Longest Common Prefix | 1 | 09/14/2021 23:00 | Accepted | 524 ms | 51.5 MB | scala | 39.8% | 42.1% |
 | 15 | Three Sum | 1 | 09/15/2021 08:52 | Accepted | 4425 ms | 441.4 MB | scala | 6.85% | 5.48% |
+| 19 | Remove Nth Node From End of List | 1 | 09/22/2021 08:27 | Accepted | 512 ms | 53.9 MB | scala | 43.10% | 44.83% |
 | 35 | Search Insert Position | 1 | 09/18/2021 15:19 | Accepted | 859 ms | 67.3 MB | scala | 6.02% | 13.25% |
 | 36 | Valid Sudoku | 1 | 09/22/2021 00:27 | Accepted | 608 ms | 52.7 MB | scala | 29.41% | 44.12% |
 | 53 | Maximum Subarray | 1 | 09/18/2021 22:56 | Accepted | 1033 ms | 183.3 MB | scala | 5.30% | 5.30% |
@@ -30,4 +31,5 @@
 | 557 | Reverse Words In A String III | 1 | 09/21/2021 08:50 | Accepted | 1005 ms | 81.6 MB | scala | 18.52% | 25.93% |
 | 566 | Reshape the Matrix | 1 | 09/21/2021 09:24 | Accepted | 917 ms | 79.2 MB | scala | 38.46% | 7.69% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
+| 876 | Middle of the Linked List | 1 | 09/22/2021 07:08 | Accepted | 452 ms | 53.4 MB | scala | 67.74% | 48.39% |
 | 977 | Sorted Squares | 1 | 09/19/2021 08:11 | Accepted | 604 ms | 53.1 MB | scala | 73.47% | 58.16% |
