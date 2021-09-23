@@ -1,3 +1,5 @@
+# Result of Submission
+
 | Question No. | Question | version | Time Submitted | Status | Runtime | Memory | Language | Runtime Percentile | Memory Percentile |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Two Sum | 1 | 09/10/2021 22:06 | Accepted | 870 ms | 69.8 MB | Scala | 12.9% | 12.9% |
@@ -30,6 +32,7 @@
 | 350 | Intersection Of Two Arrays II | 1 | 09/21/2021 00:07 | Accepted | 914 ms | 69.4 MB | scala | 20.15% | 12.69% |
 | 557 | Reverse Words In A String III | 1 | 09/21/2021 08:50 | Accepted | 1005 ms | 81.6 MB | scala | 18.52% | 25.93% |
 | 566 | Reshape the Matrix | 1 | 09/21/2021 09:24 | Accepted | 917 ms | 79.2 MB | scala | 38.46% | 7.69% |
+| 567 | Permutation in String | 1 | 09/23/2021 11:48 | Accepted | 4408 ms | 56.4 MB | scala | 17.39% | 34.78% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
 | 876 | Middle of the Linked List | 1 | 09/22/2021 07:08 | Accepted | 452 ms | 53.4 MB | scala | 67.74% | 48.39% |
 | 977 | Sorted Squares | 1 | 09/19/2021 08:11 | Accepted | 604 ms | 53.1 MB | scala | 73.47% | 58.16% |
