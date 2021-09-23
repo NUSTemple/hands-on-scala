@@ -1,5 +1,3 @@
-# Result of Submission
-
 | Question No. | Question | version | Time Submitted | Status | Runtime | Memory | Language | Runtime Percentile | Memory Percentile |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Two Sum | 1 | 09/10/2021 22:06 | Accepted | 870 ms | 69.8 MB | Scala | 12.9% | 12.9% |
@@ -27,9 +25,12 @@
 | 189 | Rotated Array | 1 | 09/19/2021 09:28 | Accepted | 620 ms | 63 MB | scala | 86.36% | 96.97% |
 | 217 | Contains Duplicate | 1 | 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala | 5.08% | 5.08% |
 | 217 | Contains Duplicate | 2 | 09/18/2021 19:37 | Accepted | 648 ms | 59.1 MB | scala | 50.85% | 77.12% |
+| 242 | Valid Anagram | 1 | 09/23/2021 14:51 | Accepted | 456 ms | 51 MB | scala | 96.97% | 93.94% |
 | 283 | Move Zeros | 1 | 09/20/2021 21:50 | Accepted | 908 ms | 67.9 MB | scala | 12.50% | 20.83% |
 | 344 | Reverse String | 1 | 09/21/2021 08:23 | Accepted | 1092 ms | 86.2 MB | scala | 20% | 30% |
 | 350 | Intersection Of Two Arrays II | 1 | 09/21/2021 00:07 | Accepted | 914 ms | 69.4 MB | scala | 20.15% | 12.69% |
+| 383 | Ransom Note | 1 | 09/23/2021 14:39 | Accepted | 1024 ms | 55.1 MB | scala | 20.00% | 26.67% |
+| 387 | First Unique Character in a String | 1 | 09/23/2021 13:52 | Accepted | 552 ms | 51.1 MB | scala | 97.44% | 94.87% |
 | 557 | Reverse Words In A String III | 1 | 09/21/2021 08:50 | Accepted | 1005 ms | 81.6 MB | scala | 18.52% | 25.93% |
 | 566 | Reshape the Matrix | 1 | 09/21/2021 09:24 | Accepted | 917 ms | 79.2 MB | scala | 38.46% | 7.69% |
 | 567 | Permutation in String | 1 | 09/23/2021 11:48 | Accepted | 4408 ms | 56.4 MB | scala | 17.39% | 34.78% |
