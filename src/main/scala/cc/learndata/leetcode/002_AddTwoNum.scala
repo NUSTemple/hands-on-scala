@@ -5,14 +5,16 @@ class ListNode(_x: Int = 0, _next: ListNode = null) {
   var x: Int = _x
     
   override def toString(): String = {
-      if (next != null)
-        x.toString +  " --> " + next.toString()
-      else {
-          x.toString
-      }
 
+        if (next != null)
+          x.toString +  " --> " + next.toString()
+        else {
+            x.toString
+        }
   }
-}
+  }
+
+
 object AddTwoNum extends App {
 
   def ArrayToListNode(l: Array[Int]): ListNode = {
