@@ -21,6 +21,7 @@
 | 74 | Search 2D Matrix | 1 | 09/22/2021 00:39 | Accepted | 484 ms | 51.4 MB | scala | 42.86% | 42.86% |
 | 83 | Remove Duplicates from Sorted List | 1 | 09/25/2021 10:47 | Accepted | 504 ms | 54 MB | scala | 81.48% | 37.04% |
 | 88 | Merge Sorted Array | 1 | 09/19/2021 10:45 | Accepted | 585 ms | 63.8 MB | scala | 16.67% | 5.56% |
+| 116 | Populating Next Right Pointers in Each Node | 1 | 09/25/2021 14:27 | Accepted | 604 ms | 52.6 MB | scala | 40.74% | 74.07% |
 | 118 | Pascal's Triangle | 1 | 09/21/2021 10:22 | Accepted | 751 ms | 61.1 MB | scala | 27.12% | 13.56% |
 | 121 | Best Time to Buy and Sell Stock | 1 | 09/21/2021 01:30 | Accepted | 1278 ms | 90 MB | scala | 5.21% | 20.83% |
 | 141 | Linked List Cycle | 1 | 09/25/2021 11:25 | Accepted | 496 ms | 52.3 MB | scala | 70.83% | 37.50% |
@@ -39,6 +40,7 @@
 | 557 | Reverse Words In A String III | 1 | 09/21/2021 08:50 | Accepted | 1005 ms | 81.6 MB | scala | 18.52% | 25.93% |
 | 566 | Reshape the Matrix | 1 | 09/21/2021 09:24 | Accepted | 917 ms | 79.2 MB | scala | 38.46% | 7.69% |
 | 567 | Permutation in String | 1 | 09/23/2021 11:48 | Accepted | 4408 ms | 56.4 MB | scala | 17.39% | 34.78% |
+| 617 | Merge Two Binary Trees | 1 | 09/27/2021 18:58 | Accepted | 560 ms | 54.2 MB | scala | 100.00% | 96.55% |
 | 695 | Max Area of Island | 1 | 09/25/2021 00:54 | Accepted | 696 ms | 57.5 MB | scala | 41.67% | 50.00% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
 | 733 | Flood Fill | 1 | 09/24/2021 23:30 | Accepted | 544 ms | 53.1 MB | scala | 93.33% | 80.00% |

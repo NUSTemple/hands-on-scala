@@ -1,18 +1,6 @@
 package cc.learndata.leetcode
 
-class ListNode(_x: Int = 0, _next: ListNode = null) {
-  var next: ListNode = _next
-  var x: Int = _x
-    
-    override def toString(): String = {
 
-          if (next != null)
-            x.toString +  " --> " + next.toString()
-          else {
-              x.toString
-          }
-    }
-  }
 
 
 object AddTwoNum extends App {
