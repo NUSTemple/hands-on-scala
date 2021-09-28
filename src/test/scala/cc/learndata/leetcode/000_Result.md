@@ -47,3 +47,4 @@
 | 733 | Flood Fill | 1 | 09/24/2021 23:30 | Accepted | 544 ms | 53.1 MB | scala | 93.33% | 80.00% |
 | 876 | Middle of the Linked List | 1 | 09/22/2021 07:08 | Accepted | 452 ms | 53.4 MB | scala | 67.74% | 48.39% |
 | 977 | Sorted Squares | 1 | 09/19/2021 08:11 | Accepted | 604 ms | 53.1 MB | scala | 73.47% | 58.16% |
+| 994 | Rotting Oranges | 1 | 09/28/2021 09:32 | Accepted | 556 ms | 53.1 MB | scala | 37.50% | 75.00% |
