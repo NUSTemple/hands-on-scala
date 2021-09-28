@@ -5,7 +5,6 @@ object LetterCasePermutation extends App {
     def letterCasePermutation(s: String): List[String] = {
 
         val sa = s.toCharArray()
-        val rule = (('a' to 'z') ++ ('A' to 'Z')).toSet
 
         def letterCasePermutation(sa: Array[Char], l: List[List[Char]]): List[List[Char]] = {
             if (sa.length == 0) return l
