@@ -13,6 +13,7 @@
 | 13 | Roman to Integer | 1 | 09/12/2021 09:21 | Accepted | 596 ms | 51.8 MB | scala | 27.6% | 46.6% |
 | 14 | Longest Common Prefix | 1 | 09/14/2021 23:00 | Accepted | 524 ms | 51.5 MB | scala | 39.8% | 42.1% |
 | 15 | Three Sum | 1 | 09/15/2021 08:52 | Accepted | 4425 ms | 441.4 MB | scala | 6.85% | 5.48% |
+| 17 | Letter Combinations of a Phone Number | 1 | 09/29/2021 01:57 | Accepted | 448 ms | 51.5 MB | scala | 65.28% | 45.14% |
 | 19 | Remove Nth Node From End of List | 1 | 09/22/2021 08:27 | Accepted | 512 ms | 53.9 MB | scala | 43.10% | 44.83% |
 | 20 | Valid Parentheses | 1 | 09/28/2021 16:00 | Accepted | 644 ms | 53.3 MB | scala | 26.83% | 40.65% |
 | 21 | Merge Two Sorted List | 1 | 09/25/2021 09:18 | Accepted | 488 ms | 53.9 MB | scala | 92.86% | 66.07% |
