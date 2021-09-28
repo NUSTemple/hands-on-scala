@@ -37,6 +37,7 @@
 | 350 | Intersection Of Two Arrays II | 1 | 09/21/2021 00:07 | Accepted | 914 ms | 69.4 MB | scala | 20.15% | 12.69% |
 | 383 | Ransom Note | 1 | 09/23/2021 14:39 | Accepted | 1024 ms | 55.1 MB | scala | 20.00% | 26.67% |
 | 387 | First Unique Character in a String | 1 | 09/23/2021 13:52 | Accepted | 552 ms | 51.1 MB | scala | 97.44% | 94.87% |
+| 542 | 01 Matrix | 1 | 09/28/2021 09:01 | Accepted | 9088 ms | 69.2 MB | scala | 5.40% | 14.86% |
 | 557 | Reverse Words In A String III | 1 | 09/21/2021 08:50 | Accepted | 1005 ms | 81.6 MB | scala | 18.52% | 25.93% |
 | 566 | Reshape the Matrix | 1 | 09/21/2021 09:24 | Accepted | 917 ms | 79.2 MB | scala | 38.46% | 7.69% |
 | 567 | Permutation in String | 1 | 09/23/2021 11:48 | Accepted | 4408 ms | 56.4 MB | scala | 17.39% | 34.78% |
