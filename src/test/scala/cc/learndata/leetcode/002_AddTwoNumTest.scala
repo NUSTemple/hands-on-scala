@@ -21,7 +21,7 @@ class AddTwoNumTest extends FunSuite {
         val expectResult = L3_1
         println(testResult)
         println(expectResult)
-        assert(testResult == expectResult)
+        assert(testResult === expectResult)
     }
 
     // test 2
@@ -36,7 +36,7 @@ class AddTwoNumTest extends FunSuite {
             val expectResult = L3
             println(testResult)
             println(expectResult)
-            assert(testResult == expectResult)
+            assert(testResult === expectResult)
         }
 
 
