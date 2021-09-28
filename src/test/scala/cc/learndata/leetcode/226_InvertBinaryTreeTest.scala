@@ -71,6 +71,6 @@ class InvertBinaryTreeTest extends FunSuite {
     val testResult = InvertBinaryTree.invertTree(node1)
 
     val expectResult = null
-    assert(testResult == expectResult)
+    assert(testResult === expectResult)
   }
 }
