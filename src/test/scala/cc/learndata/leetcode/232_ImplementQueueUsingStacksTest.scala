@@ -4,20 +4,6 @@ import org.scalatest.FunSuite
 
 class ImplementQueueUsingStacksTest extends FunSuite {
 
-      // test 1
-  test("test 1") {
-    val testResult =
-      new MyQueue()
-      testResult.push(1)
-
-    val test1 = testResult.pop()
-    assert(test1 == 1)
-    val test2 = testResult.peek()
-    assert(test2 == null)
-    val test3 = testResult.empty()
-    assert(test3 == true)
-  }
-
         // test 2
   test("test 2") {
     val testResult =
