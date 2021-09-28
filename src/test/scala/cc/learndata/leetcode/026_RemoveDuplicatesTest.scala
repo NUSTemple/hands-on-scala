@@ -13,4 +13,15 @@ class RemoveDuplicatesTest extends FunSuite {
 
   }
 
+    // test 2
+  test("test 2") {
+    val testResult =
+      RemoveDuplicates.removeDuplicates(Array(0,0,1,1,1,2,2,3,3,4))
+    val expectResult = 5
+    assert(testResult == expectResult)
+
+  }
+
+
 }
+

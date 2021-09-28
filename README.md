@@ -16,6 +16,8 @@
 | 19 | Remove Nth Node From End of List | 1 | 09/22/2021 08:27 | Accepted | 512 ms | 53.9 MB | scala | 43.10% | 44.83% |
 | 20 | Valid Parentheses | 1 | 09/28/2021 16:00 | Accepted | 644 ms | 53.3 MB | scala | 26.83% | 40.65% |
 | 21 | Merge Two Sorted List | 1 | 09/25/2021 09:18 | Accepted | 488 ms | 53.9 MB | scala | 92.86% | 66.07% |
+| 26 | Remove Duplicates from Sorted Array | 1 | 09/28/2021 23:29 | Accepted | 532 ms | 53.8 MB | scala | 86.79% | 86.79% |
+| 27 | Remove Element | 1 | 09/28/2021 23:36 | Accepted | 440 ms | 51.3 MB | scala | 94.29% | 67.14% |
 | 35 | Search Insert Position | 1 | 09/18/2021 15:19 | Accepted | 859 ms | 67.3 MB | scala | 6.02% | 13.25% |
 | 36 | Valid Sudoku | 1 | 09/22/2021 00:27 | Accepted | 608 ms | 52.7 MB | scala | 29.41% | 44.12% |
 | 46 | Permutations | 1 | 09/28/2021 09:48 | Accepted | 536 ms | 54.1 MB | scala | 42.86% | 42.86% |
