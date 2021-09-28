@@ -17,8 +17,10 @@
 | 21 | Merge Two Sorted List | 1 | 09/25/2021 09:18 | Accepted | 488 ms | 53.9 MB | scala | 92.86% | 66.07% |
 | 35 | Search Insert Position | 1 | 09/18/2021 15:19 | Accepted | 859 ms | 67.3 MB | scala | 6.02% | 13.25% |
 | 36 | Valid Sudoku | 1 | 09/22/2021 00:27 | Accepted | 608 ms | 52.7 MB | scala | 29.41% | 44.12% |
+| 46 | Permutations | 1 | 09/28/2021 09:48 | Accepted | 536 ms | 54.1 MB | scala | 42.86% | 42.86% |
 | 53 | Maximum Subarray | 1 | 09/18/2021 22:56 | Accepted | 1033 ms | 183.3 MB | scala | 5.30% | 5.30% |
 | 74 | Search 2D Matrix | 1 | 09/22/2021 00:39 | Accepted | 484 ms | 51.4 MB | scala | 42.86% | 42.86% |
+| 77 | Combinations | 1 | 09/28/2021 09:41 | Accepted | 532 ms | 54.8 MB | scala | 90.63% | 93.75% |
 | 83 | Remove Duplicates from Sorted List | 1 | 09/25/2021 10:47 | Accepted | 504 ms | 54 MB | scala | 81.48% | 37.04% |
 | 88 | Merge Sorted Array | 1 | 09/19/2021 10:45 | Accepted | 585 ms | 63.8 MB | scala | 16.67% | 5.56% |
 | 116 | Populating Next Right Pointers in Each Node | 1 | 09/25/2021 14:27 | Accepted | 604 ms | 52.6 MB | scala | 40.74% | 74.07% |
@@ -45,6 +47,7 @@
 | 695 | Max Area of Island | 1 | 09/25/2021 00:54 | Accepted | 696 ms | 57.5 MB | scala | 41.67% | 50.00% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
 | 733 | Flood Fill | 1 | 09/24/2021 23:30 | Accepted | 544 ms | 53.1 MB | scala | 93.33% | 80.00% |
+| 784 | Letter Case Permutation | 1 | 09/28/2021 10:22 | Accepted | 512 ms | 53.3 MB | scala | 66.67% | 50.00% |
 | 876 | Middle of the Linked List | 1 | 09/22/2021 07:08 | Accepted | 452 ms | 53.4 MB | scala | 67.74% | 48.39% |
 | 977 | Sorted Squares | 1 | 09/19/2021 08:11 | Accepted | 604 ms | 53.1 MB | scala | 73.47% | 58.16% |
 | 994 | Rotting Oranges | 1 | 09/28/2021 09:32 | Accepted | 556 ms | 53.1 MB | scala | 37.50% | 75.00% |
