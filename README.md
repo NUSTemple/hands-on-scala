@@ -31,6 +31,7 @@
 | 101 | Symmetric Tree | 1 | 09/28/2021 11:21 | Accepted | 508 ms | 53.6 MB | scala | 43.18% | 88.64% |
 | 102 | Binary Tree Level Order Traversal | 1 | 09/28/2021 11:56 | Accepted | 484 ms | 53.9 MB | scala | 87.10% | 61.29% |
 | 104 | Find Maximum Depth of Binary Tree | 1 | 09/28/2021 10:28 | Accepted | 452 ms | 53.4 MB | scala | 100% | 88.89% |
+| 112 | Path Sum | 1 | 09/29/2021 09:23 | Accepted | 536 ms | 53.9 MB | scala | 43.08% | 56.92% |
 | 116 | Populating Next Right Pointers in Each Node | 1 | 09/25/2021 14:27 | Accepted | 604 ms | 52.6 MB | scala | 40.74% | 74.07% |
 | 118 | Pascal's Triangle | 1 | 09/21/2021 10:22 | Accepted | 751 ms | 61.1 MB | scala | 27.12% | 13.56% |
 | 121 | Best Time to Buy and Sell Stock | 1 | 09/21/2021 01:30 | Accepted | 1278 ms | 90 MB | scala | 5.21% | 20.83% |
@@ -43,6 +44,7 @@
 | 206 | Reverse Linked List | 1 | 09/25/2021 10:25 | Accepted | 488 ms | 53.4 MB | scala | 47.67% | 81.40% |
 | 217 | Contains Duplicate | 1 | 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala | 5.08% | 5.08% |
 | 217 | Contains Duplicate | 2 | 09/18/2021 19:37 | Accepted | 648 ms | 59.1 MB | scala | 50.85% | 77.12% |
+| 226 | Invert Binary Tree | 1 | 09/29/2021 09:07 | Accepted | 456 ms | 53.5 MB | scala | 72.73% | 31.82% |
 | 232 | Implement Queue using Stacks | 1 | 09/28/2021 16:27 | Accepted | 464 ms | 53 MB | scala | 52.94% | 82.35% |
 | 242 | Valid Anagram | 1 | 09/23/2021 14:51 | Accepted | 456 ms | 51 MB | scala | 96.97% | 93.94% |
 | 283 | Move Zeros | 1 | 09/20/2021 21:50 | Accepted | 908 ms | 67.9 MB | scala | 12.50% | 20.83% |
