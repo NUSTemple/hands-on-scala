@@ -23,4 +23,22 @@ class HouseRobberTest extends FunSuite {
 
   }
 
+      // test 3
+  test("test 3") {
+      val testArray = 
+      HouseRobber.rob(Array(1, 3, 1))
+    val expectResult = 3
+    assert(testArray == expectResult)
+
+  }
+
+        // test 4
+  test("test 4") {
+      val testArray = 
+      HouseRobber.rob(Array(1, 1, 1, 2))
+    val expectResult = 3
+    assert(testArray == expectResult)
+
+  }
+
 }

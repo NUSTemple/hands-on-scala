@@ -23,6 +23,7 @@
 | 36 | Valid Sudoku | 1 | 09/22/2021 00:27 | Accepted | 608 ms | 52.7 MB | scala | 29.41% | 44.12% |
 | 46 | Permutations | 1 | 09/28/2021 09:48 | Accepted | 536 ms | 54.1 MB | scala | 42.86% | 42.86% |
 | 53 | Maximum Subarray | 1 | 09/18/2021 22:56 | Accepted | 1033 ms | 183.3 MB | scala | 5.30% | 5.30% |
+| 70 | Climbing Stairs | 1 | 09/29/2021 09:48 | Accepted | 372 ms | 49.3 MB | scala | 94.00% | 80.00% |
 | 74 | Search 2D Matrix | 1 | 09/22/2021 00:39 | Accepted | 484 ms | 51.4 MB | scala | 42.86% | 42.86% |
 | 77 | Combinations | 1 | 09/28/2021 09:41 | Accepted | 532 ms | 54.8 MB | scala | 90.63% | 93.75% |
 | 83 | Remove Duplicates from Sorted List | 1 | 09/25/2021 10:47 | Accepted | 504 ms | 54 MB | scala | 81.48% | 37.04% |
@@ -34,12 +35,14 @@
 | 112 | Path Sum | 1 | 09/29/2021 09:23 | Accepted | 536 ms | 53.9 MB | scala | 43.08% | 56.92% |
 | 116 | Populating Next Right Pointers in Each Node | 1 | 09/25/2021 14:27 | Accepted | 604 ms | 52.6 MB | scala | 40.74% | 74.07% |
 | 118 | Pascal's Triangle | 1 | 09/21/2021 10:22 | Accepted | 751 ms | 61.1 MB | scala | 27.12% | 13.56% |
+| 120 | Triangle | 1 | 09/29/2021 10:31 | Accepted | 548 ms | 54.6 MB | scala | 55.56% | 44.44% |
 | 121 | Best Time to Buy and Sell Stock | 1 | 09/21/2021 01:30 | Accepted | 1278 ms | 90 MB | scala | 5.21% | 20.83% |
 | 141 | Linked List Cycle | 1 | 09/25/2021 11:25 | Accepted | 496 ms | 52.3 MB | scala | 70.83% | 37.50% |
 | 144 | Binary Tree Preorder Traversal | 1 | 09/28/2021 15:06 | Accepted | 468 ms | 53.4 MB | scala | 42.86% | 50.00% |
 | 145 | Binary Tree Postorder Traversal | 1 | 09/28/2021 15:24 | Accepted | 448 ms | 53.2 MB | scala | 93.33% | 93.33% |
 | 167 | Two Sum In Sorted Array | 1 | 09/20/2021 22:17 | Accepted | 785 ms | 66.9 MB | scala | 36.21% | 29.31% |
 | 189 | Rotated Array | 1 | 09/19/2021 09:28 | Accepted | 620 ms | 63 MB | scala | 86.36% | 96.97% |
+| 198 | House Robber | 1 | 09/29/2021 10:14 | Accepted | 440 ms | 50.6 MB | scala | 79.07% | 100% |
 | 203 | Remove Linked List Elements | 1 | 09/25/2021 09:39 | Accepted | 560 ms | 55.2 MB | scala | 23.81% | 19.05% |
 | 206 | Reverse Linked List | 1 | 09/25/2021 10:25 | Accepted | 488 ms | 53.4 MB | scala | 47.67% | 81.40% |
 | 217 | Contains Duplicate | 1 | 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala | 5.08% | 5.08% |
