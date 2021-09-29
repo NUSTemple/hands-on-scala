@@ -22,4 +22,24 @@ class ClimbingStairsTest extends FunSuite {
 
   }
 
+      // test 3
+  test("test 3") {
+    val testResult =
+      ClimbingStairs.climbStairs(7)
+    val expectResult = 21
+    assert(testResult == expectResult)
+
+  }
+
+        // test 4
+  test("test 4") {
+    val testResult =
+      ClimbingStairs.climbStairs(10)
+    val expectResult = 89
+    assert(testResult == expectResult)
+
+  }
+
+  
+
 }
