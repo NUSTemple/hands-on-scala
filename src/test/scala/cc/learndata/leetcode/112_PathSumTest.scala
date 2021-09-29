@@ -32,9 +32,9 @@ class PathSumTest extends FunSuite {
   // test 2
   test("test 2") {
 
-    val node1 = new TreeNode(5)
-    val node2 = new TreeNode(4)
-    val node3 = new TreeNode(8)
+    val node1 = new TreeNode(1)
+    val node2 = new TreeNode(2)
+    val node3 = new TreeNode(3)
     node1.left = node2
     node1.right = node3
 
@@ -50,6 +50,17 @@ class PathSumTest extends FunSuite {
     node1.left = node2
 
     val testResult = PathSum.hasPathSum(node1, 0)
+
+    val expectResult = false
+    assert(testResult == expectResult)
+  }
+
+      test("test 4") {
+    val node1 = new TreeNode(1)
+    val node2 = new TreeNode(2)
+    node1.left = node2
+
+    val testResult = PathSum.hasPathSum(node1, 1)
 
     val expectResult = false
     assert(testResult == expectResult)
