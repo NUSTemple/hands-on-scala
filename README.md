@@ -42,12 +42,14 @@
 | 145 | Binary Tree Postorder Traversal | 1 | 09/28/2021 15:24 | Accepted | 448 ms | 53.2 MB | scala | 93.33% | 93.33% |
 | 167 | Two Sum In Sorted Array | 1 | 09/20/2021 22:17 | Accepted | 785 ms | 66.9 MB | scala | 36.21% | 29.31% |
 | 189 | Rotated Array | 1 | 09/19/2021 09:28 | Accepted | 620 ms | 63 MB | scala | 86.36% | 96.97% |
+| 191 | Number of 1 Bits | 1 | 09/29/2021 21:23 | Accepted | 452 ms | 49.7 MB | scala | 40.74% | 66.67% |
 | 198 | House Robber | 1 | 09/29/2021 10:14 | Accepted | 440 ms | 50.6 MB | scala | 79.07% | 100% |
 | 203 | Remove Linked List Elements | 1 | 09/25/2021 09:39 | Accepted | 560 ms | 55.2 MB | scala | 23.81% | 19.05% |
 | 206 | Reverse Linked List | 1 | 09/25/2021 10:25 | Accepted | 488 ms | 53.4 MB | scala | 47.67% | 81.40% |
 | 217 | Contains Duplicate | 1 | 09/18/2021 19:30 | Accepted | 3805 ms | 734.6 MB | scala | 5.08% | 5.08% |
 | 217 | Contains Duplicate | 2 | 09/18/2021 19:37 | Accepted | 648 ms | 59.1 MB | scala | 50.85% | 77.12% |
 | 226 | Invert Binary Tree | 1 | 09/29/2021 09:07 | Accepted | 456 ms | 53.5 MB | scala | 72.73% | 31.82% |
+| 231 | Power of Two | 1 | 09/29/2021 20:41 | Accepted | 408 ms | 49.4 MB | scala | 60.47% | 90.70% |
 | 232 | Implement Queue using Stacks | 1 | 09/28/2021 16:27 | Accepted | 464 ms | 53 MB | scala | 52.94% | 82.35% |
 | 242 | Valid Anagram | 1 | 09/23/2021 14:51 | Accepted | 456 ms | 51 MB | scala | 96.97% | 93.94% |
 | 283 | Move Zeros | 1 | 09/20/2021 21:50 | Accepted | 908 ms | 67.9 MB | scala | 12.50% | 20.83% |
@@ -61,6 +63,8 @@
 | 567 | Permutation in String | 1 | 09/23/2021 11:48 | Accepted | 4408 ms | 56.4 MB | scala | 17.39% | 34.78% |
 | 617 | Merge Two Binary Trees | 1 | 09/27/2021 18:58 | Accepted | 560 ms | 54.2 MB | scala | 100.00% | 96.55% |
 | 695 | Max Area of Island | 1 | 09/25/2021 00:54 | Accepted | 696 ms | 57.5 MB | scala | 41.67% | 50.00% |
+| 700 | Search in a Binary Search Tree | 1 | 09/29/2021 21:31 | Accepted | 556 ms | 53.8 MB | scala | 61.54% | 84.62% |
+| 701 | Insert into a Binary Search Tree | 1 | 09/29/2021 21:55 | Accepted | 1616 ms | 58.4 MB | scala | 25.00% | 75.00% |
 | 704 | Binary Search | 1 | 09/18/2021 13:08 | Accepted | 839 ms | 84.3 MB | scala | 41.86% | 10.46% |
 | 733 | Flood Fill | 1 | 09/24/2021 23:30 | Accepted | 544 ms | 53.1 MB | scala | 93.33% | 80.00% |
 | 784 | Letter Case Permutation | 1 | 09/28/2021 10:22 | Accepted | 512 ms | 53.3 MB | scala | 66.67% | 50.00% |
