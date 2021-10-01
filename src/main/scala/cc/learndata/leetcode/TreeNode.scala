@@ -33,21 +33,15 @@ case class TreeNode(
 
   }
 
+  def inorderTraversal(): List[Int] = {
+        // Inorder (Left, Root, Right)
+
+        if (this == null) return List()
+
+        ((if (this.left == null) List() else this.left.inorderTraversal) ++ List(this.value) ++ (if (this.right == null) List() else this.right.inorderTraversal)) 
+  }
+
   override def toString(): String = {
-    if (this == null) return ""
-
-    this match {
-      case n: TreeNode => {
-        "        " + n.value.toString
-          .padTo(4, ' ') + "\n" + (if (n.left != null)
-                                     (n.left.toString.padTo(4, ' '))
-                                   else "    ") + (if (n.right != null)
-                                                     (n.right.toString
-                                                       .padTo(4, ' '))
-                                                   else "    ")
-      }
-      case _ => ""
-    }
-
+      this.inorderTraversal.mkString(",")
   }
 }
