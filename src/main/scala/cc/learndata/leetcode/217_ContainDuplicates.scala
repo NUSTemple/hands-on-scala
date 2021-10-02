@@ -15,4 +15,8 @@ object ContainDuplicates extends App {
     res
  
   }
+
+    def containDuplicatesV2(nums: Array[Int]): Boolean = {
+    nums.length != nums.toSet.toArray.length
+  }
 }

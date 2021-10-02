@@ -6,7 +6,7 @@ class TwoSumV2Test extends FunSuite {
 
   // test 1
   test("test 1") {
-    val testResult = TwoSumV2.findSumPair(Array(1, 2, 3, 4, 6, 7, 8), 14)
+    val testResult = TwoSum.findSumPair(Array(1, 2, 3, 4, 6, 7, 8), 14)
     val expectResult = Array(4, 6)
     assert(testResult === expectResult)
   }
@@ -14,7 +14,7 @@ class TwoSumV2Test extends FunSuite {
 
       // test 2
         test("test 2") {
-    val testResult = TwoSumV2.findSumPair(Array(3, 2, 4), 6)
+    val testResult = TwoSum.findSumPairV2(Array(3, 2, 4), 6)
     val expectResult = Array(1, 2)
     assert(testResult === expectResult)
   }
@@ -23,7 +23,7 @@ class TwoSumV2Test extends FunSuite {
 
       // test 3
         test("test 3") {
-    val testResult = TwoSumV3.findSumPair(Array(3, 2, 4), 6)
+    val testResult = TwoSum.findSumPairV3(Array(3, 2, 4), 6)
     val expectResult = Array(1, 2)
     assert(testResult === expectResult)
   }
@@ -31,7 +31,7 @@ class TwoSumV2Test extends FunSuite {
 
       // test 3
         test("test 4") {
-    val testResult = TwoSumV3.findSumPair(Array(3, 2, 4), 6)
+    val testResult = TwoSum.findSumPairV3(Array(3, 2, 4), 6)
     val expectResult = Array(1, 2)
     assert(testResult === expectResult)
   }
